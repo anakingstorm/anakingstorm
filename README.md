@@ -78,7 +78,7 @@ Stack: PHP, MySQL, WordPress, Linux (Apache).
 
 2. Farmacia San Rafael (En Desarrollo)
 
-Full Stack Developer | 🔗 Ver Repositorio
+Full Stack Developer
 
 Aplicación web progresiva para la gestión moderna de inventarios y ventas farmacéuticas.
 
@@ -90,7 +90,7 @@ DevOps: Integración continua (CI) configurada con GitHub Actions.
 
 3. Report Neighbor
 
-Mobile Developer | 🔗 Ver Repositorio
+Mobile Developer
 
 Aplicación móvil nativa para el reporte y gestión de incidencias en complejos habitacionales.
 
