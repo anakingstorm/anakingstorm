@@ -11,3 +11,98 @@
 </a>
 </p>
 </div>
+
+👨‍💻 Sobre Mí
+
+Soy un Ingeniero apasionado por transformar necesidades de negocio complejas en soluciones de software escalables. Mi experiencia abarca desde la Ingeniería de Datos y DevOps en entornos empresariales (Linux/SQL) hasta el desarrollo de productos modernos Web (Next.js) y Móvil (Flutter).
+
+🔭 Actualmente trabajando en: Sistema de Gestión Farmacéutica (Web App).
+
+💼 Experiencia reciente: Líder Técnico en migración B2B para Grupo Oriente.
+
+🌱 Aprendiendo: Arquitectura de Microservicios y AWS Avanzado.
+
+🛠️ Stack Tecnológico
+
+Basado en mis proyectos recientes:
+
+Frontend / Mobile
+
+Backend / Database
+
+DevOps / Tools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Proyectos Destacados
+
+1. Plataforma B2B Grupo Oriente (Proyecto Profesional)
+
+Liderazgo Técnico / Ingeniería de Datos
+
+Sistema de comercio electrónico mayorista desplegado en producción para optimizar la cadena de suministro.
+
+Reto: Implementar lógica de precios por tarima y segmentación de clientes por zona geográfica.
+
+Solución: Desarrollo de scripts SQL personalizados para inyección masiva de datos y configuración avanzada de WooCommerce/B2BKing en servidores Linux.
+
+Stack: PHP, MySQL, WordPress, Linux (Apache).
+
+2. Farmacia San Rafael (En Desarrollo)
+
+Full Stack Developer | 🔗 Ver Repositorio
+
+Aplicación web progresiva para la gestión moderna de inventarios y ventas farmacéuticas.
+
+Backend: API robusta con Next.js 14 (App Router) y Prisma ORM sobre PostgreSQL.
+
+Seguridad: Autenticación implementada con NextAuth.js.
+
+DevOps: Integración continua (CI) configurada con GitHub Actions.
+
+3. Report Neighbor
+
+Mobile Developer | 🔗 Ver Repositorio
+
+Aplicación móvil nativa para el reporte y gestión de incidencias en complejos habitacionales.
+
+Arquitectura: Desarrollo en Flutter (Dart) para despliegue multiplataforma (Android/iOS).
+
+Offline-First: Sincronización de datos híbrida usando SQLite (local) y Firebase Firestore (nube).
+
+Features: Captura de evidencia fotográfica y geolocalización.
+
+📈 GitHub Stats
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danakingstorm%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Jesus Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danakingstorm%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Langs" />
+</p>
