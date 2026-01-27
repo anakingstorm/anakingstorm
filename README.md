@@ -100,6 +100,18 @@ Offline-First: Sincronización de datos híbrida usando SQLite (local) y Firebas
 
 Features: Captura de evidencia fotográfica y geolocalización.
 
+4. API de Gestión de Sistemas (Arquitectura Backend)
+
+Backend Developer
+
+API RESTful diseñada bajo el patrón de arquitectura por capas (Layered Architecture) para la gestión escalable de usuarios.
+
+Arquitectura Limpia: Separación estricta de responsabilidades: Controller (HTTP), Service (Lógica de Negocio) y Model (Datos).
+
+Tecnología: Servidor construido con Node.js y Express, implementando middlewares de seguridad y ruteo modular.
+
+Patrones: Implementación de buenas prácticas de desarrollo backend y estructura MVC.
+
 📈 GitHub Stats
 
 <p align="center">
