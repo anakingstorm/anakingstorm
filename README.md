@@ -1,9 +1,7 @@
-<!-- Professional README for Jesús Daniel Guerra - formatted, no assistant comments -->
-
+<!-- Professional README for Jesús Daniel Guerra -->
 <div align="center">
   <h1>Hola, soy Jesús Daniel Guerra 👋</h1>
   <h3>Ingeniero en Sistemas Computacionales | Full Stack & Mobile Developer</h3>
-
   <p>
     <a href="https://www.linkedin.com/in/jesus-daniel-guerra-hermosillo-b8221326a" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -14,16 +12,15 @@
   </p>
 </div>
 
-
 ## Sobre mí
 
-Soy un ingeniero apasionado por transformar necesidades de negocio complejas en soluciones de software escalables. Mi experiencia abarca desde la ingeniería de datos y DevOps en entornos empresariales (Linux/SQL) hasta el desarrollo de productos modernos web (Next.js) y móvil (Flutter).
+Soy un ingeniero en sistemas apasionado por convertir necesidades de negocio complejas en **soluciones de software escalables y eficientes**. 
 
-**Actualmente:** Sistema de Gestión Farmacéutica (Web App)
+Mi experiencia combina **ingeniería de datos y DevOps** en entornos empresariales (Linux/SQL) con desarrollo moderno **web** (Next.js + TypeScript) y **móvil** (Flutter).
 
-**Experiencia reciente:** Líder Técnico en migración B2B para Grupo Oriente
-
-**Aprendizaje continuo:** Arquitectura de Microservicios y AWS Avanzado
+**Actualmente:** Desarrollando un **Sistema de Gestión Farmacéutica** (Web App progresiva).  
+**Experiencia reciente:** Líder Técnico en migración B2B para **Grupo Oriente**.  
+**Aprendizaje actual:** Arquitectura de Microservicios y AWS avanzado.
 
 ---
 
@@ -34,10 +31,11 @@ Soy un ingeniero apasionado por transformar necesidades de negocio complejas en 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" alt="Prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -45,32 +43,34 @@ Soy un ingeniero apasionado por transformar necesidades de negocio complejas en 
 
 ## Proyectos destacados
 
-- **Plataforma B2B Grupo Oriente** (Proyecto profesional)
-  - Rol: Liderazgo técnico / Ingeniería de datos
-  - Descripción: Plataforma de comercio electrónico mayorista desplegada en producción para optimizar la cadena de suministro.
-  - Reto: Lógica de precios por tarima y segmentación geográfica de clientes.
-  - Solución: Scripts SQL para inyección masiva y configuración avanzada de WooCommerce/B2BKing en servidores Linux.
-  - Stack: PHP, MySQL, WordPress, Linux (Apache)
+### Plataforma B2B Grupo Oriente (Proyecto profesional)
+- **Rol:** Líder Técnico / Ingeniería de datos  
+- **Descripción:** Plataforma de comercio electrónico mayorista en producción que optimiza la cadena de suministro.  
+- **Retos y soluciones:** Lógica compleja de precios por tarima y segmentación geográfica. Implementé scripts SQL para inyección masiva de datos y configuración avanzada de WooCommerce + B2BKing en servidores Linux.  
+- **Stack:** PHP, MySQL, WordPress, Linux (Apache)
 
-- **Farmacia San Rafael** (En desarrollo)
-  - Rol: Full Stack Developer
-  - Descripción: Aplicación web progresiva para gestión de inventarios y ventas farmacéuticas.
-  - Backend: Next.js 14 (App Router) + Prisma (PostgreSQL)
-  - Seguridad: NextAuth.js
-  - DevOps: CI con GitHub Actions
-  - Repositorio: https://github.com/anakingstorm/Farmacia-San-Rafael
+### Farmacia San Rafael (En desarrollo)
+- **Rol:** Full Stack Developer  
+- **Descripción:** Aplicación web progresiva para gestión completa de inventarios, ventas y operaciones farmacéuticas.  
+- **Tecnologías:** Next.js 14 (App Router), Prisma + PostgreSQL, NextAuth.js, CI/CD con GitHub Actions.  
+- **Repositorio:** [Farmacia-San-Rafael](https://github.com/anakingstorm/Farmacia-San-Rafael)
 
-- **Report Neighbor**
-  - Rol: Mobile Developer
-  - Descripción: Aplicación móvil para reporte y gestión de incidencias en complejos habitacionales.
-  - Arquitectura: Flutter (Dart), multiplataforma (Android/iOS)
-  - Offline-first: SQLite local + Firebase Firestore
-  - Repositorio: https://github.com/anakingstorm/Report-Neighbor
+### Brújula - Geolocalización Avanzada
+- **Rol:** Desarrollador Backend / Python  
+- **Descripción:** Herramienta avanzada para geolocalización y tracking remoto de dispositivos usando redes (WiFi fingerprinting, Kalman Filter, Bluetooth, etc.). Logra precisión de **±2-50 metros** (hasta 50× mejor que geolocalización por IP tradicional). Soporta modo offline y privacy-first.  
+- **Tecnologías:** Python 3.10+, Scapy, Matplotlib, APIs de geolocalización, Beacon/Server architecture.  
+- **Repositorio:** [Geolocalizacion](https://github.com/anakingstorm/Geolocalizacion)
 
-- **API de Gestión de Sistemas**
-  - Rol: Backend Developer
-  - Descripción: API RESTful bajo arquitectura por capas (Controller, Service, Model) para gestión de usuarios.
-  - Tecnología: Node.js, Express
+### Report Neighbor
+- **Rol:** Mobile Developer  
+- **Descripción:** App móvil multiplataforma para reporte y gestión de incidencias en complejos habitacionales.  
+- **Características clave:** Arquitectura offline-first con SQLite + sincronización con Firebase Firestore.  
+- **Tecnologías:** Flutter (Dart), Android/iOS.  
+- **Repositorio:** [Report-Neighbor](https://github.com/anakingstorm/Report-Neighbor)
+
+### API de Gestión de Sistemas
+- API RESTful con arquitectura por capas (Controller-Service-Model) para gestión de usuarios y sistemas.  
+- **Tecnologías:** Node.js + Express
 
 ---
 
@@ -83,16 +83,9 @@ Soy un ingeniero apasionado por transformar necesidades de negocio complejas en 
 
 ---
 
-## Otros repositorios
-
-- https://github.com/anakingstorm/Farmacia-San-Rafael
-- https://github.com/anakingstorm/Report-Neighbor
-- https://github.com/anakingstorm/Proyecto-Dise-o-y-Gestion-de-sistemas
-- https://github.com/anakingstorm/anakingstorm
-
----
-
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/jesus-daniel-guerra-hermosillo-b8221326a
-- Email: jesusdanielguerra1@gmail.com
+- **LinkedIn:** [Jesús Daniel Guerra](https://www.linkedin.com/in/jesus-daniel-guerra-hermosillo-b8221326a)
+- **Email:** jesusdanielguerra1@gmail.com
+
+---
